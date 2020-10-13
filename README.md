@@ -1,6 +1,7 @@
 # 実践データ科学入門2020
+中野直人
 
-講義の notebook を公開しています．この repo にある notebook ファイルの実行は，以下の binder からアクセスしてください．  
+標記講義の notebook を公開しています．この repo にある notebook ファイルの実行は，以下の binder からアクセスしてください．  
 [![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTNKN/intro2pracds/master)
 
 ---
